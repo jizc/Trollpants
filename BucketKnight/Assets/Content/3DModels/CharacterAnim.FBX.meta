@@ -1,0 +1,2543 @@
+fileFormatVersion: 2
+guid: 6f6e5b60047f0214c9a16bd1c7c21361
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: b__t003
+    100002: Boat
+    100004: Box002
+    100006: BucketKnightBody001
+    100008: //RootNode
+    100010: Cylinder003
+    100012: Cylinder004
+    100014: MiniKnight
+    100016: Bone001
+    100018: Bone002
+    100020: Bone003
+    100022: Bone004
+    100024: Bone004(mirrored)
+    100026: Bone005
+    100028: Bone005(mirrored)
+    100030: Bone006
+    100032: Bone006(mirrored)
+    100034: Bone008
+    100036: Bone008(mirrored)
+    100038: Bone009
+    100040: Bone009(mirrored)
+    100042: Bone010
+    100044: Bone010(mirrored)
+    100046: Bone011
+    100048: Bone011(mirrored)
+    100050: Bone012
+    100052: Bone012(mirrored)
+    100054: Bone013
+    100056: Bone013(mirrored)
+    100058: Bone014
+    100060: Bone015
+    100062: Bone016
+    100064: Bone017
+    100066: Bone017(mirrored)
+    100068: Bone018
+    100070: Bone018(mirrored)
+    100072: Bone019
+    100074: Bone019(mirrored)
+    100076: Bone020
+    100078: Bone020(mirrored)
+    100080: Bone022
+    100082: Bone022(mirrored)
+    100084: Bone023
+    100086: Bone023(mirrored)
+    100088: Bone024
+    100090: Bone024(mirrored)
+    100092: Bone026
+    100094: Bone026(mirrored)
+    100096: Bone027
+    100098: Bone027(mirrored)
+    100100: Bone028
+    100102: Bone028(mirrored)
+    100104: Bone030
+    100106: Bone030(mirrored)
+    100108: Bone031
+    100110: Bone031(mirrored)
+    100112: Bone032
+    100114: Bone032(mirrored)
+    100116: Bone035
+    100118: Bone035(mirrored)
+    100120: Bone036
+    100122: Bone036(mirrored)
+    100124: Bone037
+    100126: Bone038
+    100128: IK Chain001
+    100130: IK Chain002
+    100132: IK Chain003
+    100134: IK Chain004
+    100136: IK Chain005
+    100138: IK Chain006
+    100140: Torus003
+    100142: Torus004
+    100144: Torus005
+    100146: Torus011
+    100148: Torus012
+    100150: Bone039
+    100152: Bone040
+    100154: Bone042
+    100156: Bone043
+    100158: Bone044
+    100160: Bone045
+    100162: Bone047
+    100164: Bone048
+    100166: Bone049
+    100168: Bone050
+    100170: Bone051
+    100172: Bone052
+    100174: Bone053
+    100176: BoatMask
+    100178: Paddle
+    100180: ArmLController
+    100182: Armour
+    100184: ArmRController
+    100186: Boat 1
+    100188: BodyController
+    100190: Cape
+    100192: FootLController
+    100194: FootRController
+    400000: b__t003
+    400002: Boat
+    400004: Box002
+    400006: BucketKnightBody001
+    400008: //RootNode
+    400010: Cylinder003
+    400012: Cylinder004
+    400014: MiniKnight
+    400016: Bone001
+    400018: Bone002
+    400020: Bone003
+    400022: Bone004
+    400024: Bone004(mirrored)
+    400026: Bone005
+    400028: Bone005(mirrored)
+    400030: Bone006
+    400032: Bone006(mirrored)
+    400034: Bone008
+    400036: Bone008(mirrored)
+    400038: Bone009
+    400040: Bone009(mirrored)
+    400042: Bone010
+    400044: Bone010(mirrored)
+    400046: Bone011
+    400048: Bone011(mirrored)
+    400050: Bone012
+    400052: Bone012(mirrored)
+    400054: Bone013
+    400056: Bone013(mirrored)
+    400058: Bone014
+    400060: Bone015
+    400062: Bone016
+    400064: Bone017
+    400066: Bone017(mirrored)
+    400068: Bone018
+    400070: Bone018(mirrored)
+    400072: Bone019
+    400074: Bone019(mirrored)
+    400076: Bone020
+    400078: Bone020(mirrored)
+    400080: Bone022
+    400082: Bone022(mirrored)
+    400084: Bone023
+    400086: Bone023(mirrored)
+    400088: Bone024
+    400090: Bone024(mirrored)
+    400092: Bone026
+    400094: Bone026(mirrored)
+    400096: Bone027
+    400098: Bone027(mirrored)
+    400100: Bone028
+    400102: Bone028(mirrored)
+    400104: Bone030
+    400106: Bone030(mirrored)
+    400108: Bone031
+    400110: Bone031(mirrored)
+    400112: Bone032
+    400114: Bone032(mirrored)
+    400116: Bone035
+    400118: Bone035(mirrored)
+    400120: Bone036
+    400122: Bone036(mirrored)
+    400124: Bone037
+    400126: Bone038
+    400128: IK Chain001
+    400130: IK Chain002
+    400132: IK Chain003
+    400134: IK Chain004
+    400136: IK Chain005
+    400138: IK Chain006
+    400140: Torus003
+    400142: Torus004
+    400144: Torus005
+    400146: Torus011
+    400148: Torus012
+    400150: Bone039
+    400152: Bone040
+    400154: Bone042
+    400156: Bone043
+    400158: Bone044
+    400160: Bone045
+    400162: Bone047
+    400164: Bone048
+    400166: Bone049
+    400168: Bone050
+    400170: Bone051
+    400172: Bone052
+    400174: Bone053
+    400176: BoatMask
+    400178: Paddle
+    400180: ArmLController
+    400182: Armour
+    400184: ArmRController
+    400186: Boat 1
+    400188: BodyController
+    400190: Cape
+    400192: FootLController
+    400194: FootRController
+    2300000: b__t003
+    2300002: Box002
+    2300004: BucketKnightBody001
+    2300006: Cylinder003
+    2300008: Cylinder004
+    2300010: BoatMask
+    2300012: Paddle
+    2300014: Boat 1
+    3300000: b__t003
+    3300002: Box002
+    3300004: BucketKnightBody001
+    3300006: Cylinder003
+    3300008: Cylinder004
+    3300010: BoatMask
+    3300012: Paddle
+    3300014: Boat 1
+    4300000: BucketKnightBody001
+    4300002: Cylinder003
+    4300004: b__t003
+    4300006: Cylinder004
+    4300008: Box002
+    4300010: BoatMask
+    4300012: Paddle
+    4300014: Armour
+    4300016: Boat
+    4300018: Cape
+    7400000: Take001
+    7400002: PaddleRight
+    7400004: SwitchToLeft
+    7400006: SwitchToRight
+    7400008: IdleLeft
+    7400010: IdleRight
+    7400012: PaddleLeft
+    7400014: DamageRForward
+    7400016: DamageRBackwards
+    7400018: DamageLBackwards
+    7400020: DamageLForwards
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Box002
+    13700002: BucketKnightBody001
+    13700004: Cylinder003
+    13700006: Armour
+    13700008: Cape
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boat
+        weight: 1
+      - path: Boat/b__t003
+        weight: 1
+      - path: Boat/b__t003/BoatMask
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: MiniKnight
+        weight: 1
+      - path: MiniKnight/BucketKnightBody001
+        weight: 1
+      - path: MiniKnight/Cylinder003
+        weight: 1
+      - path: Paddle
+        weight: 1
+      - path: Paddle/Torus011
+        weight: 1
+      - path: Paddle/Torus011/IK Chain006
+        weight: 1
+      - path: Paddle/Torus012
+        weight: 1
+      - path: Paddle/Torus012/IK Chain005
+        weight: 1
+      - path: Torus003
+        weight: 1
+      - path: Torus003/Bone001
+        weight: 1
+      - path: Torus003/Bone001/Bone002
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023/Bone024
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027/Bone028
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031/Bone032
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035/Bone036
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)/Bone020(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)/Bone024(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)/Bone028(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040/Bone051
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045/Bone052
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050/Bone053
+        weight: 1
+      - path: Torus003/Bone001/Bone008
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)/Bone013(mirrored)
+        weight: 1
+      - path: Torus004
+        weight: 1
+      - path: Torus004/IK Chain001
+        weight: 1
+      - path: Torus004/IK Chain002
+        weight: 1
+      - path: Torus005
+        weight: 1
+      - path: Torus005/IK Chain003
+        weight: 1
+      - path: Torus005/IK Chain004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PaddleRight
+      takeName: Take 001
+      firstFrame: 117
+      lastFrame: 136
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boat
+        weight: 1
+      - path: Boat/b__t003
+        weight: 1
+      - path: Boat/b__t003/BoatMask
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: MiniKnight
+        weight: 1
+      - path: MiniKnight/BucketKnightBody001
+        weight: 1
+      - path: MiniKnight/Cylinder003
+        weight: 1
+      - path: Paddle
+        weight: 1
+      - path: Paddle/Torus011
+        weight: 1
+      - path: Paddle/Torus011/IK Chain006
+        weight: 1
+      - path: Paddle/Torus012
+        weight: 1
+      - path: Paddle/Torus012/IK Chain005
+        weight: 1
+      - path: Torus003
+        weight: 1
+      - path: Torus003/Bone001
+        weight: 1
+      - path: Torus003/Bone001/Bone002
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023/Bone024
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027/Bone028
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031/Bone032
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035/Bone036
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)/Bone020(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)/Bone024(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)/Bone028(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040/Bone051
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045/Bone052
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050/Bone053
+        weight: 1
+      - path: Torus003/Bone001/Bone008
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)/Bone013(mirrored)
+        weight: 1
+      - path: Torus004
+        weight: 1
+      - path: Torus004/IK Chain001
+        weight: 1
+      - path: Torus004/IK Chain002
+        weight: 1
+      - path: Torus005
+        weight: 1
+      - path: Torus005/IK Chain003
+        weight: 1
+      - path: Torus005/IK Chain004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SwitchToLeft
+      takeName: Take 001
+      firstFrame: 141
+      lastFrame: 151
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boat
+        weight: 1
+      - path: Boat/b__t003
+        weight: 1
+      - path: Boat/b__t003/BoatMask
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: MiniKnight
+        weight: 1
+      - path: MiniKnight/BucketKnightBody001
+        weight: 1
+      - path: MiniKnight/Cylinder003
+        weight: 1
+      - path: Paddle
+        weight: 1
+      - path: Paddle/Torus011
+        weight: 1
+      - path: Paddle/Torus011/IK Chain006
+        weight: 1
+      - path: Paddle/Torus012
+        weight: 1
+      - path: Paddle/Torus012/IK Chain005
+        weight: 1
+      - path: Torus003
+        weight: 1
+      - path: Torus003/Bone001
+        weight: 1
+      - path: Torus003/Bone001/Bone002
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023/Bone024
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027/Bone028
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031/Bone032
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035/Bone036
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)/Bone020(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)/Bone024(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)/Bone028(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040/Bone051
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045/Bone052
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050/Bone053
+        weight: 1
+      - path: Torus003/Bone001/Bone008
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)/Bone013(mirrored)
+        weight: 1
+      - path: Torus004
+        weight: 1
+      - path: Torus004/IK Chain001
+        weight: 1
+      - path: Torus004/IK Chain002
+        weight: 1
+      - path: Torus005
+        weight: 1
+      - path: Torus005/IK Chain003
+        weight: 1
+      - path: Torus005/IK Chain004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SwitchToRight
+      takeName: Take 001
+      firstFrame: 101
+      lastFrame: 113
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boat
+        weight: 1
+      - path: Boat/b__t003
+        weight: 1
+      - path: Boat/b__t003/BoatMask
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: MiniKnight
+        weight: 1
+      - path: MiniKnight/BucketKnightBody001
+        weight: 1
+      - path: MiniKnight/Cylinder003
+        weight: 1
+      - path: Paddle
+        weight: 1
+      - path: Paddle/Torus011
+        weight: 1
+      - path: Paddle/Torus011/IK Chain006
+        weight: 1
+      - path: Paddle/Torus012
+        weight: 1
+      - path: Paddle/Torus012/IK Chain005
+        weight: 1
+      - path: Torus003
+        weight: 1
+      - path: Torus003/Bone001
+        weight: 1
+      - path: Torus003/Bone001/Bone002
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023/Bone024
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027/Bone028
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031/Bone032
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035/Bone036
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)/Bone020(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)/Bone024(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)/Bone028(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040/Bone051
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045/Bone052
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050/Bone053
+        weight: 1
+      - path: Torus003/Bone001/Bone008
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)/Bone013(mirrored)
+        weight: 1
+      - path: Torus004
+        weight: 1
+      - path: Torus004/IK Chain001
+        weight: 1
+      - path: Torus004/IK Chain002
+        weight: 1
+      - path: Torus005
+        weight: 1
+      - path: Torus005/IK Chain003
+        weight: 1
+      - path: Torus005/IK Chain004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: IdleLeft
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 50
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boat
+        weight: 1
+      - path: Boat/b__t003
+        weight: 1
+      - path: Boat/b__t003/BoatMask
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: MiniKnight
+        weight: 1
+      - path: MiniKnight/BucketKnightBody001
+        weight: 1
+      - path: MiniKnight/Cylinder003
+        weight: 1
+      - path: Paddle
+        weight: 1
+      - path: Paddle/Torus011
+        weight: 1
+      - path: Paddle/Torus011/IK Chain006
+        weight: 1
+      - path: Paddle/Torus012
+        weight: 1
+      - path: Paddle/Torus012/IK Chain005
+        weight: 1
+      - path: Torus003
+        weight: 1
+      - path: Torus003/Bone001
+        weight: 1
+      - path: Torus003/Bone001/Bone002
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023/Bone024
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027/Bone028
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031/Bone032
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035/Bone036
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)/Bone020(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)/Bone024(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)/Bone028(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040/Bone051
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045/Bone052
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050/Bone053
+        weight: 1
+      - path: Torus003/Bone001/Bone008
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)/Bone013(mirrored)
+        weight: 1
+      - path: Torus004
+        weight: 1
+      - path: Torus004/IK Chain001
+        weight: 1
+      - path: Torus004/IK Chain002
+        weight: 1
+      - path: Torus005
+        weight: 1
+      - path: Torus005/IK Chain003
+        weight: 1
+      - path: Torus005/IK Chain004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: IdleRight
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 84
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boat
+        weight: 1
+      - path: Boat/b__t003
+        weight: 1
+      - path: Boat/b__t003/BoatMask
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: MiniKnight
+        weight: 1
+      - path: MiniKnight/BucketKnightBody001
+        weight: 1
+      - path: MiniKnight/Cylinder003
+        weight: 1
+      - path: Paddle
+        weight: 1
+      - path: Paddle/Torus011
+        weight: 1
+      - path: Paddle/Torus011/IK Chain006
+        weight: 1
+      - path: Paddle/Torus012
+        weight: 1
+      - path: Paddle/Torus012/IK Chain005
+        weight: 1
+      - path: Torus003
+        weight: 1
+      - path: Torus003/Bone001
+        weight: 1
+      - path: Torus003/Bone001/Bone002
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023/Bone024
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027/Bone028
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031/Bone032
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035/Bone036
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)/Bone020(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)/Bone024(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)/Bone028(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040/Bone051
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045/Bone052
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050/Bone053
+        weight: 1
+      - path: Torus003/Bone001/Bone008
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)/Bone013(mirrored)
+        weight: 1
+      - path: Torus004
+        weight: 1
+      - path: Torus004/IK Chain001
+        weight: 1
+      - path: Torus004/IK Chain002
+        weight: 1
+      - path: Torus005
+        weight: 1
+      - path: Torus005/IK Chain003
+        weight: 1
+      - path: Torus005/IK Chain004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PaddleLeft
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boat
+        weight: 1
+      - path: Boat/b__t003
+        weight: 1
+      - path: Boat/b__t003/BoatMask
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: MiniKnight
+        weight: 1
+      - path: MiniKnight/BucketKnightBody001
+        weight: 1
+      - path: MiniKnight/Cylinder003
+        weight: 1
+      - path: Paddle
+        weight: 1
+      - path: Paddle/Torus011
+        weight: 1
+      - path: Paddle/Torus011/IK Chain006
+        weight: 1
+      - path: Paddle/Torus012
+        weight: 1
+      - path: Paddle/Torus012/IK Chain005
+        weight: 1
+      - path: Torus003
+        weight: 1
+      - path: Torus003/Bone001
+        weight: 1
+      - path: Torus003/Bone001/Bone002
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023/Bone024
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027/Bone028
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031/Bone032
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035/Bone036
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)/Bone020(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)/Bone024(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)/Bone028(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040/Bone051
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045/Bone052
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: Torus003/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050/Bone053
+        weight: 1
+      - path: Torus003/Bone001/Bone008
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: Torus003/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)
+        weight: 1
+      - path: Torus003/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)/Bone013(mirrored)
+        weight: 1
+      - path: Torus004
+        weight: 1
+      - path: Torus004/IK Chain001
+        weight: 1
+      - path: Torus004/IK Chain002
+        weight: 1
+      - path: Torus005
+        weight: 1
+      - path: Torus005/IK Chain003
+        weight: 1
+      - path: Torus005/IK Chain004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: DamageRForward
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 174
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boat
+        weight: 1
+      - path: Boat/Boat 1
+        weight: 1
+      - path: Boat/Boat 1/BoatMask
+        weight: 1
+      - path: BodyController
+        weight: 1
+      - path: BodyController/Bone001
+        weight: 1
+      - path: BodyController/Bone001/Bone002
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023/Bone024
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027/Bone028
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031/Bone032
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035/Bone036
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)/Bone020(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)/Bone024(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)/Bone028(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014/Bone015
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014/Bone015/Bone016
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040/Bone051
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045/Bone052
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050/Bone053
+        weight: 1
+      - path: BodyController/Bone001/Bone008
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)/Bone013(mirrored)
+        weight: 1
+      - path: Cape
+        weight: 1
+      - path: FootLController
+        weight: 1
+      - path: FootLController/IK Chain003
+        weight: 1
+      - path: FootLController/IK Chain004
+        weight: 1
+      - path: FootRController
+        weight: 1
+      - path: FootRController/IK Chain001
+        weight: 1
+      - path: FootRController/IK Chain002
+        weight: 1
+      - path: MiniKnight
+        weight: 1
+      - path: MiniKnight/Armour
+        weight: 1
+      - path: MiniKnight/BucketKnightBody001
+        weight: 1
+      - path: Paddle
+        weight: 1
+      - path: Paddle/ArmLController
+        weight: 1
+      - path: Paddle/ArmLController/IK Chain006
+        weight: 1
+      - path: Paddle/ArmRController
+        weight: 1
+      - path: Paddle/ArmRController/IK Chain005
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: DamageRBackwards
+      takeName: Take 001
+      firstFrame: 185
+      lastFrame: 194
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boat
+        weight: 1
+      - path: Boat/Boat 1
+        weight: 1
+      - path: Boat/Boat 1/BoatMask
+        weight: 1
+      - path: BodyController
+        weight: 1
+      - path: BodyController/Bone001
+        weight: 1
+      - path: BodyController/Bone001/Bone002
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023/Bone024
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027/Bone028
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031/Bone032
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035/Bone036
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)/Bone020(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)/Bone024(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)/Bone028(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014/Bone015
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014/Bone015/Bone016
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040/Bone051
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045/Bone052
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050/Bone053
+        weight: 1
+      - path: BodyController/Bone001/Bone008
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)/Bone013(mirrored)
+        weight: 1
+      - path: Cape
+        weight: 1
+      - path: FootLController
+        weight: 1
+      - path: FootLController/IK Chain003
+        weight: 1
+      - path: FootLController/IK Chain004
+        weight: 1
+      - path: FootRController
+        weight: 1
+      - path: FootRController/IK Chain001
+        weight: 1
+      - path: FootRController/IK Chain002
+        weight: 1
+      - path: MiniKnight
+        weight: 1
+      - path: MiniKnight/Armour
+        weight: 1
+      - path: MiniKnight/BucketKnightBody001
+        weight: 1
+      - path: Paddle
+        weight: 1
+      - path: Paddle/ArmLController
+        weight: 1
+      - path: Paddle/ArmLController/IK Chain006
+        weight: 1
+      - path: Paddle/ArmRController
+        weight: 1
+      - path: Paddle/ArmRController/IK Chain005
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: DamageLBackwards
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 210
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boat
+        weight: 1
+      - path: Boat/Boat 1
+        weight: 1
+      - path: Boat/Boat 1/BoatMask
+        weight: 1
+      - path: BodyController
+        weight: 1
+      - path: BodyController/Bone001
+        weight: 1
+      - path: BodyController/Bone001/Bone002
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023/Bone024
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027/Bone028
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031/Bone032
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035/Bone036
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)/Bone020(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)/Bone024(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)/Bone028(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014/Bone015
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014/Bone015/Bone016
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040/Bone051
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045/Bone052
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050/Bone053
+        weight: 1
+      - path: BodyController/Bone001/Bone008
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)/Bone013(mirrored)
+        weight: 1
+      - path: Cape
+        weight: 1
+      - path: FootLController
+        weight: 1
+      - path: FootLController/IK Chain003
+        weight: 1
+      - path: FootLController/IK Chain004
+        weight: 1
+      - path: FootRController
+        weight: 1
+      - path: FootRController/IK Chain001
+        weight: 1
+      - path: FootRController/IK Chain002
+        weight: 1
+      - path: MiniKnight
+        weight: 1
+      - path: MiniKnight/Armour
+        weight: 1
+      - path: MiniKnight/BucketKnightBody001
+        weight: 1
+      - path: Paddle
+        weight: 1
+      - path: Paddle/ArmLController
+        weight: 1
+      - path: Paddle/ArmLController/IK Chain006
+        weight: 1
+      - path: Paddle/ArmRController
+        weight: 1
+      - path: Paddle/ArmRController/IK Chain005
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: DamageLForwards
+      takeName: Take 001
+      firstFrame: 216
+      lastFrame: 236
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boat
+        weight: 1
+      - path: Boat/Boat 1
+        weight: 1
+      - path: Boat/Boat 1/BoatMask
+        weight: 1
+      - path: BodyController
+        weight: 1
+      - path: BodyController/Bone001
+        weight: 1
+      - path: BodyController/Bone001/Bone002
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone022/Bone023/Bone024
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone026/Bone027/Bone028
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone030/Bone031/Bone032
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone017/Bone035/Bone036
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone018(mirrored)/Bone019(mirrored)/Bone020(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone022(mirrored)/Bone023(mirrored)/Bone024(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone026(mirrored)/Bone027(mirrored)/Bone028(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)/Bone017(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014/Bone015
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone014/Bone015/Bone016
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone037/Bone038/Bone039/Bone040/Bone051
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone042/Bone043/Bone044/Bone045/Bone052
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: BodyController/Bone001/Bone002/Bone003/Bone047/Bone048/Bone049/Bone050/Bone053
+        weight: 1
+      - path: BodyController/Bone001/Bone008
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: BodyController/Bone001/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)
+        weight: 1
+      - path: BodyController/Bone001/Bone008(mirrored)/Bone009(mirrored)/Bone010(mirrored)/Bone011(mirrored)/Bone012(mirrored)/Bone013(mirrored)
+        weight: 1
+      - path: Cape
+        weight: 1
+      - path: FootLController
+        weight: 1
+      - path: FootLController/IK Chain003
+        weight: 1
+      - path: FootLController/IK Chain004
+        weight: 1
+      - path: FootRController
+        weight: 1
+      - path: FootRController/IK Chain001
+        weight: 1
+      - path: FootRController/IK Chain002
+        weight: 1
+      - path: MiniKnight
+        weight: 1
+      - path: MiniKnight/Armour
+        weight: 1
+      - path: MiniKnight/BucketKnightBody001
+        weight: 1
+      - path: Paddle
+        weight: 1
+      - path: Paddle/ArmLController
+        weight: 1
+      - path: Paddle/ArmLController/IK Chain006
+        weight: 1
+      - path: Paddle/ArmRController
+        weight: 1
+      - path: Paddle/ArmRController/IK Chain005
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

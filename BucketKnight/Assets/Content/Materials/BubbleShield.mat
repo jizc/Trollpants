@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BubbleShield
+  m_Shader: {fileID: 4800000, guid: be6e5f2c18648864a841ef9237bc70b8, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _RimPower
+        second: 1.30357146
+      data:
+        first:
+          name: _AlphPower
+        second: 1.14285731
+      data:
+        first:
+          name: _AlphaMin
+        second: .214285716
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .727941155, g: .352976233, b: .149870247, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: .348615915, g: .492315859, b: .911764681, a: 0}

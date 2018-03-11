@@ -1,0 +1,16 @@
+        private static readonly UnifiedAchievement FIELDNAME = new UnifiedAchievement("INTERNALID",
+#if !UNITY_EDITOR && (UNITY_IOS || UNITY_TVOS)
+            "APPLEID"
+#elif !UNITY_EDITOR && UNITY_ANDROID && CLOUDONCE_GOOGLE
+            "GOOGLEID"
+#elif !UNITY_EDITOR && UNITY_ANDROID && CLOUDONCE_AMAZON
+            "AMAZONID"
+#else
+            "INTERNALID"
+#endif
+            );
+
+        public static UnifiedAchievement INTERNALID
+        {
+            get { return FIELDNAME; }
+        }

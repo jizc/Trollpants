@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: a600aa77879f02640b3dd52cf0ff4780
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BodyControlFish005
+    100002: BodyFish005
+    100004: FaceControlFish005
+    100006: FaceFish005
+    100008: FacenubFish005
+    100010: Fish006
+    100012: //RootNode
+    100014: TailControlFish005
+    100016: TailFish005
+    100018: TailnubFish005
+    400000: BodyControlFish005
+    400002: BodyFish005
+    400004: FaceControlFish005
+    400006: FaceFish005
+    400008: FacenubFish005
+    400010: Fish006
+    400012: //RootNode
+    400014: TailControlFish005
+    400016: TailFish005
+    400018: TailnubFish005
+    4300000: Fish006
+    7400000: IdleStart
+    7400002: Jump
+    7400004: IdleEnd
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Fish006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IdleStart
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BodyControlFish005
+        weight: 1
+      - path: BodyControlFish005/BodyFish005
+        weight: 1
+      - path: BodyControlFish005/FaceControlFish005
+        weight: 1
+      - path: BodyControlFish005/FaceControlFish005/FaceFish005
+        weight: 1
+      - path: BodyControlFish005/FaceControlFish005/FaceFish005/FacenubFish005
+        weight: 1
+      - path: BodyControlFish005/TailControlFish005
+        weight: 1
+      - path: BodyControlFish005/TailControlFish005/TailFish005
+        weight: 1
+      - path: BodyControlFish005/TailControlFish005/TailFish005/TailnubFish005
+        weight: 1
+      - path: Fish006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BodyControlFish005
+        weight: 1
+      - path: BodyControlFish005/BodyFish005
+        weight: 1
+      - path: BodyControlFish005/FaceControlFish005
+        weight: 1
+      - path: BodyControlFish005/FaceControlFish005/FaceFish005
+        weight: 1
+      - path: BodyControlFish005/FaceControlFish005/FaceFish005/FacenubFish005
+        weight: 1
+      - path: BodyControlFish005/TailControlFish005
+        weight: 1
+      - path: BodyControlFish005/TailControlFish005/TailFish005
+        weight: 1
+      - path: BodyControlFish005/TailControlFish005/TailFish005/TailnubFish005
+        weight: 1
+      - path: Fish006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: IdleEnd
+      takeName: Take 001
+      firstFrame: 65
+      lastFrame: 65
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BodyControlFish005
+        weight: 1
+      - path: BodyControlFish005/BodyFish005
+        weight: 1
+      - path: BodyControlFish005/FaceControlFish005
+        weight: 1
+      - path: BodyControlFish005/FaceControlFish005/FaceFish005
+        weight: 1
+      - path: BodyControlFish005/FaceControlFish005/FaceFish005/FacenubFish005
+        weight: 1
+      - path: BodyControlFish005/TailControlFish005
+        weight: 1
+      - path: BodyControlFish005/TailControlFish005/TailFish005
+        weight: 1
+      - path: BodyControlFish005/TailControlFish005/TailFish005/TailnubFish005
+        weight: 1
+      - path: Fish006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0500000007
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

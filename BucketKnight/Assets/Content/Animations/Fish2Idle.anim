@@ -1,0 +1,2996 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Fish2Idle
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3.41060486e-13, y: -3.55271347e-15, z: 6.06033481e-15, w: 1}
+        inSlope: {x: 3.74635463e-39, y: 4.47908547e-38, z: NaN, w: 3.74631539e-39}
+        outSlope: {x: 0, y: 8.89384595e-17, z: -1.19431646e-16, w: 0}
+        tangentMode: 1065353209
+      - time: .166666672
+        value: {x: 3.41060486e-13, y: -3.55271347e-15, z: 6.06033481e-15, w: 1}
+        inSlope: {x: 0, y: 9.02090089e-17, z: -1.19431646e-16, w: 0}
+        outSlope: {x: 5.89818014e-39, y: 1.33415257e-34, z: 3.74634342e-39, w: 9.90899164e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .707106769, y: 0, z: 0, w: -.707106769}
+        inSlope: {x: 3.74635463e-39, y: 4.47908547e-38, z: NaN, w: 3.74631539e-39}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1065353216
+      - time: .166666672
+        value: {x: .707106769, y: 0, z: 0, w: -.707106769}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 5.89818014e-39, y: 7.95619346e-35, z: 3.74634342e-39, w: 9.90899164e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 3.74635463e-39, y: 4.47908547e-38, z: NaN, w: 3.74631539e-39}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1065353223
+      - time: .166666672
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 5.89818014e-39, y: 7.95619346e-35, z: 3.74634342e-39, w: 9.90899164e-23}
+        tangentMode: 112
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Fish007
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .707106769, y: -1.4734943e-08, z: 1.4734943e-08, w: .707106769}
+        inSlope: {x: 3.74635463e-39, y: 4.47908547e-38, z: NaN, w: 3.74631539e-39}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1065353209
+      - time: .166666672
+        value: {x: .707106769, y: -1.4734943e-08, z: 1.4734943e-08, w: .707106769}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 5.89818014e-39, y: 1.09659297e-34, z: 3.74634342e-39, w: 9.90899164e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/FaceControlFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.16719173e-06, y: -1.19290553e-06, z: .712386787, w: .701787055}
+        inSlope: {x: 3.74635463e-39, y: 4.47908547e-38, z: NaN, w: 3.74631539e-39}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -1.16719173e-06, y: -1.19290553e-06, z: .712386787, w: .701787055}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 5.89818014e-39, y: 1.15794597e-34, z: 3.74634342e-39, w: 9.90899164e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .498536259, y: .50145942, z: -.50145942, w: .498536259}
+        inSlope: {x: 3.74635463e-39, y: 4.47908547e-38, z: NaN, w: 3.74631539e-39}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .498536259, y: .50145942, z: -.50145942, w: .498536259}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 5.89818014e-39, y: 5.61897779e-35, z: 3.74634342e-39, w: 9.90899164e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/BodyFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .707106769, y: -1.4734943e-08, z: 1.4734943e-08, w: .707106769}
+        inSlope: {x: 3.74635463e-39, y: 4.47908547e-38, z: NaN, w: 3.74631539e-39}
+        outSlope: {x: 0, y: -.273400605, z: .273400605, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .707106769, y: -1.4734943e-08, z: 1.4734943e-08, w: .707106769}
+        inSlope: {x: 0, y: -.273420483, z: .273420483, w: 0}
+        outSlope: {x: 5.89818014e-39, y: 1.32922927e-34, z: 3.74634342e-39, w: 9.90899164e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/TailControlFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.16086881e-06, y: 1.1524204e-06, z: .704519808, w: -.709684312}
+        inSlope: {x: 3.74635463e-39, y: 4.47908547e-38, z: NaN, w: 3.74631539e-39}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1065353217
+      - time: .166666672
+        value: {x: -1.16086881e-06, y: 1.1524204e-06, z: .704519808, w: -.709684312}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 5.89818014e-39, y: 1.32922927e-34, z: 3.74634342e-39, w: 9.90899164e-23}
+        tangentMode: 48
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/TailControlFish006/TailFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .707106769, y: 0, z: 0, w: -.707106769}
+        inSlope: {x: 3.74635463e-39, y: 4.47908547e-38, z: NaN, w: 3.74631539e-39}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1065353209
+      - time: .166666672
+        value: {x: .707106769, y: 0, z: 0, w: -.707106769}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 5.89818014e-39, y: 1.33687044e-34, z: 3.74634342e-39, w: 9.90899164e-23}
+        tangentMode: 43
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.10930788e-23, y: 8.88178102e-16, z: -2.37486937e-08, w: 1}
+        inSlope: {x: 3.74635463e-39, y: 4.47908547e-38, z: NaN, w: 3.74631539e-39}
+        outSlope: {x: -4.94805114e-23, y: 1.14984723e-16, z: 0, w: 0}
+        tangentMode: 1065353218
+      - time: .166666672
+        value: {x: 2.10930788e-23, y: 8.88178102e-16, z: -2.37486937e-08, w: 1}
+        inSlope: {x: -4.94237134e-23, y: 1.14667085e-16, z: 0, w: 0}
+        outSlope: {x: 5.89818014e-39, y: 6.45689863e-35, z: 3.74634342e-39, w: 9.90899164e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -1.16322184, z: .0157144405}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 2036625218
+      - time: .166666672
+        value: {x: 0, y: -1.16322184, z: .0157144405}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 107872292
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00244557392, y: -.0857825652, z: -.105338529}
+        inSlope: {x: 1.23812669e-07, y: -1.07057225e-15, z: -2.49800181e-15}
+        outSlope: {x: 1.23812669e-07, y: -1.07057225e-15, z: -2.49800181e-15}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.00244557392, y: -.0857825652, z: -.105338529}
+        inSlope: {x: 1.23812669e-07, y: -1.07057225e-15, z: -2.49800181e-15}
+        outSlope: {x: 1.23812669e-07, y: -1.07057225e-15, z: -2.49800181e-15}
+        tangentMode: 84
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 0, z: -.189884156}
+        inSlope: {x: -0, y: -6.62327333e-15, z: 1.65530628e-06}
+        outSlope: {x: -0, y: -6.62327333e-15, z: 1.65530628e-06}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -0, y: 0, z: -.189884156}
+        inSlope: {x: -0, y: -6.62327333e-15, z: 1.65530628e-06}
+        outSlope: {x: -0, y: -6.62327333e-15, z: 1.65530628e-06}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/BodyFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: -3.21865095e-08, z: -.189545438}
+        inSlope: {x: -0, y: -0, z: 1.65530628e-06}
+        outSlope: {x: -0, y: -0, z: 1.65530628e-06}
+        tangentMode: -1098122454
+      - time: .166666672
+        value: {x: -0, y: -3.21865095e-08, z: -.189545438}
+        inSlope: {x: -0, y: -0, z: 1.65530628e-06}
+        outSlope: {x: -0, y: -0, z: 1.65530628e-06}
+        tangentMode: 1049361861
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/FaceControlFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.6763807e-10, y: -.000338773738, z: -3.21865095e-08}
+        inSlope: {x: -2.32644547e-24, y: -6.41484917e-07, z: -0}
+        outSlope: {x: -2.32644547e-24, y: -6.41484917e-07, z: -0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -1.6763807e-10, y: -.000338773738, z: -3.21865095e-08}
+        inSlope: {x: -2.32644547e-24, y: -6.41484917e-07, z: -0}
+        outSlope: {x: -2.32644547e-24, y: -6.41484917e-07, z: -0}
+        tangentMode: 112423120
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.356362045, y: 4.29153459e-08, z: 0}
+        inSlope: {x: -7.49400542e-15, y: -2.01163814e-08, z: -6.62327333e-15}
+        outSlope: {x: -7.49400542e-15, y: -2.01163814e-08, z: -6.62327333e-15}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.356362045, y: 4.29153459e-08, z: 0}
+        inSlope: {x: -7.49400542e-15, y: -2.01163814e-08, z: -6.62327333e-15}
+        outSlope: {x: -7.49400542e-15, y: -2.01163814e-08, z: -6.62327333e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00267078751, y: -1.07288365e-08, z: .266609132}
+        inSlope: {x: -0, y: -4.08815878e-14, z: 2.49800181e-15}
+        outSlope: {x: -0, y: -4.08815878e-14, z: 2.49800181e-15}
+        tangentMode: 1181511538
+      - time: .166666672
+        value: {x: .00267078751, y: -1.07288365e-08, z: .266609132}
+        inSlope: {x: -0, y: -4.08815878e-14, z: 2.49800181e-15}
+        outSlope: {x: -0, y: -4.08815878e-14, z: 2.49800181e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/TailControlFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -4.2894392e-08, y: .000383255508, z: 0}
+        inSlope: {x: -6.2836919e-10, y: 6.45226805e-07, z: 3.31163667e-15}
+        outSlope: {x: -6.2836919e-10, y: 6.45226805e-07, z: 3.31163667e-15}
+        tangentMode: -1037565952
+      - time: .166666672
+        value: {x: -4.2894392e-08, y: .000383255508, z: 0}
+        inSlope: {x: -6.2836919e-10, y: 6.45226805e-07, z: 3.31163667e-15}
+        outSlope: {x: -6.2836919e-10, y: 6.45226805e-07, z: 3.31163667e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/TailControlFish006/TailFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.365677327, y: 4.30829843e-08, z: -1.07288365e-08}
+        inSlope: {x: -5.70971823e-15, y: 3.52047138e-08, z: 6.43730118e-07}
+        outSlope: {x: -5.70971823e-15, y: 3.52047138e-08, z: 6.43730118e-07}
+        tangentMode: 1
+      - time: .166666672
+        value: {x: -.365677327, y: 4.30829843e-08, z: -1.07288365e-08}
+        inSlope: {x: -5.70971823e-15, y: 3.52047138e-08, z: 6.43730118e-07}
+        outSlope: {x: -5.70971823e-15, y: 3.52047138e-08, z: 6.43730118e-07}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -6.00814815e-07, y: .0816112757, z: .0761658326}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: .166666672
+        value: {x: -6.00814815e-07, y: .0816112757, z: .0761658326}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Fish007
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 617419776
+      - time: .166666672
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -1526091264
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Fish007
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000024, y: 1.00000024, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 1.00000024, y: 1.00000024, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: .166666672
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: .999999523, z: .999999523}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: .166666672
+        value: {x: 1, y: .999999523, z: .999999523}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/BodyFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: .999999583, z: .999999762}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 1, y: .999999583, z: .999999762}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/FaceControlFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.0000006, y: 1.00000083, z: 1.00000024}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 1.0000006, y: 1.00000083, z: 1.00000024}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 617419776
+      - time: .166666672
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -1526091264
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: .999999583, z: .999999762}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 1, y: .999999583, z: .999999762}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/TailControlFish006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000024, y: 1, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1108082688
+      - time: .166666672
+        value: {x: 1.00000024, y: 1, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1108082688
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BodyControlFish006/TailControlFish006/TailFish006
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: -.000436395407, y: .0692461729, z: .467791319}
+    m_Extent: {x: .420726687, y: .731112182, z: 1.67946911}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .166666672
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 3.74631539e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 9.90899164e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6.06033481e-15
+        inSlope: NaN
+        outSlope: -1.19431646e-16
+        tangentMode: 0
+      - time: .166666672
+        value: 6.06033481e-15
+        inSlope: -1.19431646e-16
+        outSlope: 3.74634342e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -3.55271347e-15
+        inSlope: 4.47908547e-38
+        outSlope: 8.89384595e-17
+        tangentMode: 0
+      - time: .166666672
+        value: -3.55271347e-15
+        inSlope: 9.02090089e-17
+        outSlope: 1.33415257e-34
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 3.41060486e-13
+        inSlope: 3.74635463e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 3.41060486e-13
+        inSlope: 0
+        outSlope: 5.89818014e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.707106769
+        inSlope: 3.74631539e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -.707106769
+        inSlope: 0
+        outSlope: 9.90899164e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: NaN
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 3.74634342e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 4.47908547e-38
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 7.95619346e-35
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .707106769
+        inSlope: 3.74635463e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .707106769
+        inSlope: 0
+        outSlope: 5.89818014e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 3.74631539e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 9.90899164e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: NaN
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 3.74634342e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 4.47908547e-38
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 7.95619346e-35
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 3.74635463e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 5.89818014e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .707106769
+        inSlope: 3.74631539e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .707106769
+        inSlope: 0
+        outSlope: 9.90899164e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.4734943e-08
+        inSlope: NaN
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.4734943e-08
+        inSlope: 0
+        outSlope: 3.74634342e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.4734943e-08
+        inSlope: 4.47908547e-38
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -1.4734943e-08
+        inSlope: 0
+        outSlope: 1.09659297e-34
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .707106769
+        inSlope: 3.74635463e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .707106769
+        inSlope: 0
+        outSlope: 5.89818014e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .701787055
+        inSlope: 3.74631539e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .701787055
+        inSlope: 0
+        outSlope: 9.90899164e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .712386787
+        inSlope: NaN
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .712386787
+        inSlope: 0
+        outSlope: 3.74634342e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.19290553e-06
+        inSlope: 4.47908547e-38
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -1.19290553e-06
+        inSlope: 0
+        outSlope: 1.15794597e-34
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.16719173e-06
+        inSlope: 3.74635463e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -1.16719173e-06
+        inSlope: 0
+        outSlope: 5.89818014e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .498536259
+        inSlope: 3.74631539e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .498536259
+        inSlope: 0
+        outSlope: 9.90899164e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.50145942
+        inSlope: NaN
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -.50145942
+        inSlope: 0
+        outSlope: 3.74634342e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .50145942
+        inSlope: 4.47908547e-38
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .50145942
+        inSlope: 0
+        outSlope: 5.61897779e-35
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .498536259
+        inSlope: 3.74635463e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .498536259
+        inSlope: 0
+        outSlope: 5.89818014e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .707106769
+        inSlope: 3.74631539e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .707106769
+        inSlope: 0
+        outSlope: 9.90899164e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.4734943e-08
+        inSlope: NaN
+        outSlope: .273400605
+        tangentMode: 0
+      - time: .166666672
+        value: 1.4734943e-08
+        inSlope: .273420483
+        outSlope: 3.74634342e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.4734943e-08
+        inSlope: 4.47908547e-38
+        outSlope: -.273400605
+        tangentMode: 0
+      - time: .166666672
+        value: -1.4734943e-08
+        inSlope: -.273420483
+        outSlope: 1.32922927e-34
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .707106769
+        inSlope: 3.74635463e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .707106769
+        inSlope: 0
+        outSlope: 5.89818014e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.709684312
+        inSlope: 3.74631539e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -.709684312
+        inSlope: 0
+        outSlope: 9.90899164e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .704519808
+        inSlope: NaN
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .704519808
+        inSlope: 0
+        outSlope: 3.74634342e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.1524204e-06
+        inSlope: 4.47908547e-38
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.1524204e-06
+        inSlope: 0
+        outSlope: 1.32922927e-34
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.16086881e-06
+        inSlope: 3.74635463e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -1.16086881e-06
+        inSlope: 0
+        outSlope: 5.89818014e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.707106769
+        inSlope: 3.74631539e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -.707106769
+        inSlope: 0
+        outSlope: 9.90899164e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: NaN
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 3.74634342e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 4.47908547e-38
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 1.33687044e-34
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .707106769
+        inSlope: 3.74635463e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .707106769
+        inSlope: 0
+        outSlope: 5.89818014e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.16322184
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -1.16322184
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0157144405
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .0157144405
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.00244557392
+        inSlope: 1.23812669e-07
+        outSlope: 1.23812669e-07
+        tangentMode: 0
+      - time: .166666672
+        value: -.00244557392
+        inSlope: 1.23812669e-07
+        outSlope: 1.23812669e-07
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0857825652
+        inSlope: -1.07057225e-15
+        outSlope: -1.07057225e-15
+        tangentMode: 0
+      - time: .166666672
+        value: -.0857825652
+        inSlope: -1.07057225e-15
+        outSlope: -1.07057225e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.105338529
+        inSlope: -2.49800181e-15
+        outSlope: -2.49800181e-15
+        tangentMode: 0
+      - time: .166666672
+        value: -.105338529
+        inSlope: -2.49800181e-15
+        outSlope: -2.49800181e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -6.62327333e-15
+        outSlope: -6.62327333e-15
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: -6.62327333e-15
+        outSlope: -6.62327333e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.189884156
+        inSlope: 1.65530628e-06
+        outSlope: 1.65530628e-06
+        tangentMode: 0
+      - time: .166666672
+        value: -.189884156
+        inSlope: 1.65530628e-06
+        outSlope: 1.65530628e-06
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -3.21865095e-08
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - time: .166666672
+        value: -3.21865095e-08
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.189545438
+        inSlope: 1.65530628e-06
+        outSlope: 1.65530628e-06
+        tangentMode: 0
+      - time: .166666672
+        value: -.189545438
+        inSlope: 1.65530628e-06
+        outSlope: 1.65530628e-06
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.6763807e-10
+        inSlope: -2.32644547e-24
+        outSlope: -2.32644547e-24
+        tangentMode: 0
+      - time: .166666672
+        value: -1.6763807e-10
+        inSlope: -2.32644547e-24
+        outSlope: -2.32644547e-24
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.000338773738
+        inSlope: -6.41484917e-07
+        outSlope: -6.41484917e-07
+        tangentMode: 0
+      - time: .166666672
+        value: -.000338773738
+        inSlope: -6.41484917e-07
+        outSlope: -6.41484917e-07
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -3.21865095e-08
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - time: .166666672
+        value: -3.21865095e-08
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.356362045
+        inSlope: -7.49400542e-15
+        outSlope: -7.49400542e-15
+        tangentMode: 0
+      - time: .166666672
+        value: -.356362045
+        inSlope: -7.49400542e-15
+        outSlope: -7.49400542e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 4.29153459e-08
+        inSlope: -2.01163814e-08
+        outSlope: -2.01163814e-08
+        tangentMode: 0
+      - time: .166666672
+        value: 4.29153459e-08
+        inSlope: -2.01163814e-08
+        outSlope: -2.01163814e-08
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -6.62327333e-15
+        outSlope: -6.62327333e-15
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: -6.62327333e-15
+        outSlope: -6.62327333e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .00267078751
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - time: .166666672
+        value: .00267078751
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.07288365e-08
+        inSlope: -4.08815878e-14
+        outSlope: -4.08815878e-14
+        tangentMode: 0
+      - time: .166666672
+        value: -1.07288365e-08
+        inSlope: -4.08815878e-14
+        outSlope: -4.08815878e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .266609132
+        inSlope: 2.49800181e-15
+        outSlope: 2.49800181e-15
+        tangentMode: 0
+      - time: .166666672
+        value: .266609132
+        inSlope: 2.49800181e-15
+        outSlope: 2.49800181e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -4.2894392e-08
+        inSlope: -6.2836919e-10
+        outSlope: -6.2836919e-10
+        tangentMode: 0
+      - time: .166666672
+        value: -4.2894392e-08
+        inSlope: -6.2836919e-10
+        outSlope: -6.2836919e-10
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .000383255508
+        inSlope: 6.45226805e-07
+        outSlope: 6.45226805e-07
+        tangentMode: 0
+      - time: .166666672
+        value: .000383255508
+        inSlope: 6.45226805e-07
+        outSlope: 6.45226805e-07
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 3.31163667e-15
+        outSlope: 3.31163667e-15
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 3.31163667e-15
+        outSlope: 3.31163667e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.365677327
+        inSlope: -5.70971823e-15
+        outSlope: -5.70971823e-15
+        tangentMode: 0
+      - time: .166666672
+        value: -.365677327
+        inSlope: -5.70971823e-15
+        outSlope: -5.70971823e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 4.30829843e-08
+        inSlope: 3.52047138e-08
+        outSlope: 3.52047138e-08
+        tangentMode: 0
+      - time: .166666672
+        value: 4.30829843e-08
+        inSlope: 3.52047138e-08
+        outSlope: 3.52047138e-08
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.07288365e-08
+        inSlope: 6.43730118e-07
+        outSlope: 6.43730118e-07
+        tangentMode: 0
+      - time: .166666672
+        value: -1.07288365e-08
+        inSlope: 6.43730118e-07
+        outSlope: 6.43730118e-07
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -6.00814815e-07
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -6.00814815e-07
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0816112757
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .0816112757
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0761658326
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .0761658326
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999999523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .999999523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999999523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .999999523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.00000012
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.00000012
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.00000012
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.00000012
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999999583
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .999999583
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999999762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .999999762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.0000006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.0000006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.00000083
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.00000083
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.00000024
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.00000024
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999999583
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .999999583
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999999762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .999999762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.00000024
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.00000024
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .99999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .99999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.00000024
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.00000024
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.00000024
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.00000024
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 2.10930788e-23
+        inSlope: 3.74635463e-39
+        outSlope: -4.94805114e-23
+        tangentMode: 0
+      - time: .166666672
+        value: 2.10930788e-23
+        inSlope: -4.94237134e-23
+        outSlope: 5.89818014e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 8.88178102e-16
+        inSlope: 4.47908547e-38
+        outSlope: 1.14984723e-16
+        tangentMode: 0
+      - time: .166666672
+        value: 8.88178102e-16
+        inSlope: 1.14667085e-16
+        outSlope: 6.45689863e-35
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.37486937e-08
+        inSlope: NaN
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -2.37486937e-08
+        inSlope: 0
+        outSlope: 3.74634342e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 3.74631539e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 9.90899164e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 270
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 270
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 270
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 270
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: BodyControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 90.3349686
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 90.3349686
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: BodyControlFish006/BodyFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.38789971e-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -2.38789971e-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: BodyControlFish006/FaceControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 3.51682661e-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 3.51682661e-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.000191214072
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -.000191214072
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 90.8588943
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 90.8588943
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: BodyControlFish006/FaceControlFish006/FaceFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 3.90826538e-11
+        inSlope: -3.11479235e-15
+        outSlope: -3.11479235e-15
+        tangentMode: 0
+      - time: .166666672
+        value: 3.90826538e-11
+        inSlope: -3.11479235e-15
+        outSlope: -3.11479235e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -4.07110977e-13
+        inSlope: 1.02300497e-14
+        outSlope: 1.02300497e-14
+        tangentMode: 0
+      - time: .166666672
+        value: -4.07110977e-13
+        inSlope: 1.02300497e-14
+        outSlope: 1.02300497e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6.94463204e-13
+        inSlope: -1.37135312e-14
+        outSlope: -1.37135312e-14
+        tangentMode: 0
+      - time: .166666672
+        value: 6.94463204e-13
+        inSlope: -1.37135312e-14
+        outSlope: -1.37135312e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: BodyControlFish006/FaceControlFish006/FaceFish006/FacenubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.38789971e-06
+        inSlope: -44.4396935
+        outSlope: -44.4396935
+        tangentMode: 0
+      - time: .166666672
+        value: -2.38789971e-06
+        inSlope: -44.4396935
+        outSlope: -44.4396935
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: BodyControlFish006/TailControlFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.36907192e-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.36907192e-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.000187438534
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -.000187438534
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 270.418488
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 270.418488
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: BodyControlFish006/TailControlFish006/TailFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 4.83417638e-21
+        inSlope: -5.371307e-21
+        outSlope: -5.371307e-21
+        tangentMode: 0
+      - time: .166666672
+        value: 4.83417638e-21
+        inSlope: -5.371307e-21
+        outSlope: -5.371307e-21
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.01777717e-13
+        inSlope: 1.32323563e-14
+        outSlope: 1.32323563e-14
+        tangentMode: 0
+      - time: .166666672
+        value: 1.01777717e-13
+        inSlope: 1.32323563e-14
+        outSlope: 1.32323563e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.72139982e-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -2.72139982e-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: BodyControlFish006/TailControlFish006/TailFish006/TailnubFish006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Fish007
+    classID: 4
+    script: {fileID: 0}
+  m_Events: []
