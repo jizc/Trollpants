@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 50cfec3947c9e5041a245bf83f7fdc20
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube
+    100004: Lamp
+    100006: //RootNode
+    100008: Armature_001
+    100010: Cube_001
+    100012: Hodebein
+    100014: Hovedbein
+    100016: L_Bone1
+    100018: L_Bone10
+    100020: L_Bone11
+    100022: L_Bone12
+    100024: L_Bone13
+    100026: L_Bone14
+    100028: L_Bone15
+    100030: L_Bone16
+    100032: L_Bone17
+    100034: L_Bone18
+    100036: L_Bone19
+    100038: L_Bone2
+    100040: L_Bone20
+    100042: L_Bone3
+    100044: L_Bone4
+    100046: L_Bone5
+    100048: L_Bone6
+    100050: L_Bone7
+    100052: L_Bone8
+    100054: L_Bone9
+    100056: R_Bone1
+    100058: R_Bone10
+    100060: R_Bone11
+    100062: R_Bone12
+    100064: R_Bone13
+    100066: R_Bone14
+    100068: R_Bone15
+    100070: R_Bone16
+    100072: R_Bone17
+    100074: R_Bone18
+    100076: R_Bone19
+    100078: R_Bone2
+    100080: R_Bone20
+    100082: R_Bone3
+    100084: R_Bone4
+    100086: R_Bone5
+    100088: R_Bone6
+    100090: R_Bone7
+    100092: R_Bone8
+    100094: R_Bone9
+    400000: Camera
+    400002: Cube
+    400004: Lamp
+    400006: //RootNode
+    400008: Armature_001
+    400010: Cube_001
+    400012: Hodebein
+    400014: Hovedbein
+    400016: L_Bone1
+    400018: L_Bone10
+    400020: L_Bone11
+    400022: L_Bone12
+    400024: L_Bone13
+    400026: L_Bone14
+    400028: L_Bone15
+    400030: L_Bone16
+    400032: L_Bone17
+    400034: L_Bone18
+    400036: L_Bone19
+    400038: L_Bone2
+    400040: L_Bone20
+    400042: L_Bone3
+    400044: L_Bone4
+    400046: L_Bone5
+    400048: L_Bone6
+    400050: L_Bone7
+    400052: L_Bone8
+    400054: L_Bone9
+    400056: R_Bone1
+    400058: R_Bone10
+    400060: R_Bone11
+    400062: R_Bone12
+    400064: R_Bone13
+    400066: R_Bone14
+    400068: R_Bone15
+    400070: R_Bone16
+    400072: R_Bone17
+    400074: R_Bone18
+    400076: R_Bone19
+    400078: R_Bone2
+    400080: R_Bone20
+    400082: R_Bone3
+    400084: R_Bone4
+    400086: R_Bone5
+    400088: R_Bone6
+    400090: R_Bone7
+    400092: R_Bone8
+    400094: R_Bone9
+    2300000: Cube
+    2300002: Cube_001
+    3300000: Cube
+    3300002: Cube_001
+    4300000: Cube
+    4300002: Cube_001
+    7400000: Default Take
+    7400002: SpiderAnimation
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SpiderAnimation
+      takeName: SpiderAnimation
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Hovedbein
+        weight: 1
+      - path: Armature_001/Hovedbein/Hodebein
+        weight: 1
+      - path: Armature_001/L_Bone1
+        weight: 1
+      - path: Armature_001/L_Bone1/L_Bone2
+        weight: 1
+      - path: Armature_001/L_Bone1/L_Bone2/L_Bone3
+        weight: 1
+      - path: Armature_001/L_Bone1/L_Bone2/L_Bone3/L_Bone4
+        weight: 1
+      - path: Armature_001/L_Bone1/L_Bone2/L_Bone3/L_Bone4/L_Bone5
+        weight: 1
+      - path: Armature_001/L_Bone6
+        weight: 1
+      - path: Armature_001/L_Bone6/L_Bone7
+        weight: 1
+      - path: Armature_001/L_Bone6/L_Bone7/L_Bone8
+        weight: 1
+      - path: Armature_001/L_Bone6/L_Bone7/L_Bone8/L_Bone9
+        weight: 1
+      - path: Armature_001/L_Bone6/L_Bone7/L_Bone8/L_Bone9/L_Bone10
+        weight: 1
+      - path: Armature_001/L_Bone11
+        weight: 1
+      - path: Armature_001/L_Bone11/L_Bone12
+        weight: 1
+      - path: Armature_001/L_Bone11/L_Bone12/L_Bone13
+        weight: 1
+      - path: Armature_001/L_Bone11/L_Bone12/L_Bone13/L_Bone14
+        weight: 1
+      - path: Armature_001/L_Bone11/L_Bone12/L_Bone13/L_Bone14/L_Bone15
+        weight: 1
+      - path: Armature_001/L_Bone16
+        weight: 1
+      - path: Armature_001/L_Bone16/L_Bone17
+        weight: 1
+      - path: Armature_001/L_Bone16/L_Bone17/L_Bone18
+        weight: 1
+      - path: Armature_001/L_Bone16/L_Bone17/L_Bone18/L_Bone19
+        weight: 1
+      - path: Armature_001/L_Bone16/L_Bone17/L_Bone18/L_Bone19/L_Bone20
+        weight: 1
+      - path: Armature_001/R_Bone1
+        weight: 1
+      - path: Armature_001/R_Bone1/R_Bone2
+        weight: 1
+      - path: Armature_001/R_Bone1/R_Bone2/R_Bone3
+        weight: 1
+      - path: Armature_001/R_Bone1/R_Bone2/R_Bone3/R_Bone4
+        weight: 1
+      - path: Armature_001/R_Bone1/R_Bone2/R_Bone3/R_Bone4/R_Bone5
+        weight: 1
+      - path: Armature_001/R_Bone6
+        weight: 1
+      - path: Armature_001/R_Bone6/R_Bone7
+        weight: 1
+      - path: Armature_001/R_Bone6/R_Bone7/R_Bone8
+        weight: 1
+      - path: Armature_001/R_Bone6/R_Bone7/R_Bone8/R_Bone9
+        weight: 1
+      - path: Armature_001/R_Bone6/R_Bone7/R_Bone8/R_Bone9/R_Bone10
+        weight: 1
+      - path: Armature_001/R_Bone11
+        weight: 1
+      - path: Armature_001/R_Bone11/R_Bone12
+        weight: 1
+      - path: Armature_001/R_Bone11/R_Bone12/R_Bone13
+        weight: 1
+      - path: Armature_001/R_Bone11/R_Bone12/R_Bone13/R_Bone14
+        weight: 1
+      - path: Armature_001/R_Bone11/R_Bone12/R_Bone13/R_Bone14/R_Bone15
+        weight: 1
+      - path: Armature_001/R_Bone16
+        weight: 1
+      - path: Armature_001/R_Bone16/R_Bone17
+        weight: 1
+      - path: Armature_001/R_Bone16/R_Bone17/R_Bone18
+        weight: 1
+      - path: Armature_001/R_Bone16/R_Bone17/R_Bone18/R_Bone19
+        weight: 1
+      - path: Armature_001/R_Bone16/R_Bone17/R_Bone18/R_Bone19/R_Bone20
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

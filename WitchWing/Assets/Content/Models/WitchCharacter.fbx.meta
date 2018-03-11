@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 146fd27edf9b810499cc64e8185fd5d5
+timeCreated: 1473591639
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Base_controller
+    100004: Broom
+    100006: Character_controller
+    100008: Chest
+    100010: Cylinder
+    100012: Eye_L
+    100014: Eye_L_0
+    100016: Eye_R
+    100018: Foot_L
+    100020: Foot_R
+    100022: Hand_L
+    100024: Hand_R
+    100026: Hat_bone
+    100028: IK_Foot_L
+    100030: IK_Foot_R
+    100032: IK_Hand_L
+    100034: IK_Hand_R
+    100036: LowerArm_L
+    100038: LowerArm_R
+    100040: LowerLeg_L
+    100042: LowerLeg_R
+    100044: Neck
+    100046: Pelvis
+    100048: Robe_Back_1
+    100050: Robe_Back_2
+    100052: Robe_front_1
+    100054: Robe_front_2
+    100056: Shoulder_L
+    100058: Shoulder_R
+    100060: Stomach
+    100062: Tigh_L
+    100064: Tigh_R
+    100066: UpperArm_L
+    100068: UpperArm_R
+    100070: Witch_body
+    100072: //RootNode
+    100074: WitchArmature
+    400000: Armature
+    400002: Base_controller
+    400004: Broom
+    400006: Character_controller
+    400008: Chest
+    400010: Cylinder
+    400012: Eye_L
+    400014: Eye_L_0
+    400016: Eye_R
+    400018: Foot_L
+    400020: Foot_R
+    400022: Hand_L
+    400024: Hand_R
+    400026: Hat_bone
+    400028: IK_Foot_L
+    400030: IK_Foot_R
+    400032: IK_Hand_L
+    400034: IK_Hand_R
+    400036: LowerArm_L
+    400038: LowerArm_R
+    400040: LowerLeg_L
+    400042: LowerLeg_R
+    400044: Neck
+    400046: Pelvis
+    400048: Robe_Back_1
+    400050: Robe_Back_2
+    400052: Robe_front_1
+    400054: Robe_front_2
+    400056: Shoulder_L
+    400058: Shoulder_R
+    400060: Stomach
+    400062: Tigh_L
+    400064: Tigh_R
+    400066: UpperArm_L
+    400068: UpperArm_R
+    400070: Witch_body
+    400072: //RootNode
+    400074: WitchArmature
+    2300000: Cylinder
+    2300002: Eye_L
+    2300004: Witch_body
+    3300000: Cylinder
+    3300002: Eye_L
+    3300004: Witch_body
+    4300000: Cylinder
+    4300002: Eye_L
+    4300004: Witch_body
+    7400000: Default Take
+    7400002: WitchArmatureAction
+    9500000: //RootNode
+    13700000: Cylinder
+    13700002: Eye_L
+    13700004: Witch_body
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 835a766988e0bf04f92bfcebb23a6ebc,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

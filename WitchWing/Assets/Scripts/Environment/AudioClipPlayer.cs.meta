@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ebc09e30dbee2f04d992d3ae8e3a3af1
+timeCreated: 1475940108
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - checkpoint: {fileID: 8300000, guid: 9aa06ee4196a9464ca705b0c9c3af328, type: 3}
+  - menuMusic: {fileID: 8300000, guid: 00e1fa1370b34c24c9e04c10926658d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

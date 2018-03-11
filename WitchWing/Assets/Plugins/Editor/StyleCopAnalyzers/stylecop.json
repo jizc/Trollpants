@@ -1,0 +1,22 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "Jan Ivar Z. Carlsen, Sindri Jóelsson",
+      "copyrightText": "Copyright (c) {year} {companyName}. All rights reserved.\nLicensed under the {licenseName} license. See {licenseFile} file in the project root for full license information.",
+      "variables": {
+        "licenseName": "MIT",
+        "licenseFile": "LICENSE",
+        "year": "2016"
+      },
+      "documentInterfaces": false,
+      "documentExposedElements": false,
+      "documentInternalElements": false,
+      "documentPrivateElements": false,
+      "documentPrivateFields": false
+    },
+  "layoutRules": {
+    "newlineAtEndOfFile": "require"
+    }
+  }
+}

@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: 835a766988e0bf04f92bfcebb23a6ebc
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Base_controller
+    100004: Broom
+    100006: Character_controller
+    100008: Chest
+    100010: Cylinder
+    100012: Eye_L
+    100014: Eye_L_0
+    100016: Eye_R
+    100018: Eye_R_0
+    100020: Foot_L
+    100022: Foot_R
+    100024: Hair
+    100026: Hand_L
+    100028: Hand_R
+    100030: Hat_bone
+    100032: IK_Foot_L
+    100034: IK_Foot_R
+    100036: IK_Hand_L
+    100038: IK_Hand_R
+    100040: LowerArm_L
+    100042: LowerArm_R
+    100044: LowerLeg_L
+    100046: LowerLeg_R
+    100048: Neck
+    100050: Pelvis
+    100052: Robe_Back_1
+    100054: Robe_Back_2
+    100056: Robe_front_1
+    100058: Robe_front_2
+    100060: Robe_Level_1
+    100062: Shoulder_L
+    100064: Shoulder_R
+    100066: Stomach
+    100068: Tigh_L
+    100070: Tigh_R
+    100072: UpperArm_L
+    100074: UpperArm_R
+    100076: //RootNode
+    100078: Witch_body
+    100080: Witch_face
+    100082: Witch_hat
+    100084: WitchArmature
+    400000: Armature
+    400002: Base_controller
+    400004: Broom
+    400006: Character_controller
+    400008: Chest
+    400010: Cylinder
+    400012: Eye_L
+    400014: Eye_L_0
+    400016: Eye_R
+    400018: Eye_R_0
+    400020: Foot_L
+    400022: Foot_R
+    400024: Hair
+    400026: Hand_L
+    400028: Hand_R
+    400030: Hat_bone
+    400032: IK_Foot_L
+    400034: IK_Foot_R
+    400036: IK_Hand_L
+    400038: IK_Hand_R
+    400040: LowerArm_L
+    400042: LowerArm_R
+    400044: LowerLeg_L
+    400046: LowerLeg_R
+    400048: Neck
+    400050: Pelvis
+    400052: Robe_Back_1
+    400054: Robe_Back_2
+    400056: Robe_front_1
+    400058: Robe_front_2
+    400060: Robe_Level_1
+    400062: Shoulder_L
+    400064: Shoulder_R
+    400066: Stomach
+    400068: Tigh_L
+    400070: Tigh_R
+    400072: UpperArm_L
+    400074: UpperArm_R
+    400076: //RootNode
+    400078: Witch_body
+    400080: Witch_face
+    400082: Witch_hat
+    400084: WitchArmature
+    2300000: Hair
+    2300002: Robe_Level_1
+    2300004: Witch_hat
+    3300000: Hair
+    3300002: Robe_Level_1
+    3300004: Witch_hat
+    4300000: Cylinder
+    4300002: Eye_R
+    4300004: Eye_L
+    4300006: Witch_body
+    4300008: Witch_face
+    4300010: Hair
+    4300012: Witch_hat
+    4300014: Robe_Level_1
+    7400000: Anim_Fly_Up_Loop
+    7400002: Anim_Fly_Regular
+    7400004: Anim_Fly_Up_Blend_Final
+    7400006: Anim_Fly_Down_Loop
+    7400008: Anim_Fly_Down_Blend_Start
+    7400010: Anim_Fly_Up_Blend_Start
+    7400012: Anim_Fly_Down_Blend_Final
+    9500000: //RootNode
+    13700000: Cylinder
+    13700002: Eye_L
+    13700004: Eye_R
+    13700006: Hair
+    13700008: Robe_Level_1
+    13700010: Witch_body
+    13700012: Witch_face
+    13700014: Witch_hat
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Anim_Fly_Regular
+      takeName: WitchArmatureAction
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Broom
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Eye_L
+        weight: 1
+      - path: Eye_R
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Robe_Level_1
+        weight: 1
+      - path: Witch_body
+        weight: 1
+      - path: Witch_face
+        weight: 1
+      - path: Witch_hat
+        weight: 1
+      - path: WitchArmature
+        weight: 1
+      - path: WitchArmature/Character_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Pelvis
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1/Robe_Back_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1/Robe_front_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_L_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_R_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Hat_bone
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L/LowerLeg_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R/LowerLeg_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L/Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R/Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L/Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R/Hand_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Anim_Fly_Up_Loop
+      takeName: Default Take
+      firstFrame: 105
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Broom
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Eye_L
+        weight: 1
+      - path: Eye_R
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Robe_Level_1
+        weight: 1
+      - path: Witch_body
+        weight: 1
+      - path: Witch_face
+        weight: 1
+      - path: Witch_hat
+        weight: 1
+      - path: WitchArmature
+        weight: 1
+      - path: WitchArmature/Character_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Pelvis
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1/Robe_Back_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1/Robe_front_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_L_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_R_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Hat_bone
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L/LowerLeg_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R/LowerLeg_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L/Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R/Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L/Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R/Hand_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Anim_Fly_Up_Blend_Final
+      takeName: Default Take
+      firstFrame: 125
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Broom
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Eye_L
+        weight: 1
+      - path: Eye_R
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Robe_Level_1
+        weight: 1
+      - path: Witch_body
+        weight: 1
+      - path: Witch_face
+        weight: 1
+      - path: Witch_hat
+        weight: 1
+      - path: WitchArmature
+        weight: 1
+      - path: WitchArmature/Character_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Pelvis
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1/Robe_Back_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1/Robe_front_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_L_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_R_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Hat_bone
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L/LowerLeg_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R/LowerLeg_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L/Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R/Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L/Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R/Hand_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Anim_Fly_Down_Loop
+      takeName: Default Take
+      firstFrame: 150
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Broom
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Eye_L
+        weight: 1
+      - path: Eye_R
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Robe_Level_1
+        weight: 1
+      - path: Witch_body
+        weight: 1
+      - path: Witch_face
+        weight: 1
+      - path: Witch_hat
+        weight: 1
+      - path: WitchArmature
+        weight: 1
+      - path: WitchArmature/Character_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Pelvis
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1/Robe_Back_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1/Robe_front_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_L_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_R_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Hat_bone
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L/LowerLeg_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R/LowerLeg_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L/Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R/Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L/Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R/Hand_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Anim_Fly_Down_Blend_Start
+      takeName: Default Take
+      firstFrame: 140
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Broom
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Eye_L
+        weight: 1
+      - path: Eye_R
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Robe_Level_1
+        weight: 1
+      - path: Witch_body
+        weight: 1
+      - path: Witch_face
+        weight: 1
+      - path: Witch_hat
+        weight: 1
+      - path: WitchArmature
+        weight: 1
+      - path: WitchArmature/Character_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Pelvis
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1/Robe_Back_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1/Robe_front_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_L_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_R_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Hat_bone
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L/LowerLeg_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R/LowerLeg_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L/Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R/Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L/Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R/Hand_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Anim_Fly_Up_Blend_Start
+      takeName: Default Take
+      firstFrame: 90
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Broom
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Eye_L
+        weight: 1
+      - path: Eye_R
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Robe_Level_1
+        weight: 1
+      - path: Witch_body
+        weight: 1
+      - path: Witch_face
+        weight: 1
+      - path: Witch_hat
+        weight: 1
+      - path: WitchArmature
+        weight: 1
+      - path: WitchArmature/Character_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Pelvis
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1/Robe_Back_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1/Robe_front_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_L_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_R_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Hat_bone
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L/LowerLeg_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R/LowerLeg_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L/Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R/Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L/Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R/Hand_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Anim_Fly_Down_Blend_Final
+      takeName: Default Take
+      firstFrame: 170
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Broom
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Eye_L
+        weight: 1
+      - path: Eye_R
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Robe_Level_1
+        weight: 1
+      - path: Witch_body
+        weight: 1
+      - path: Witch_face
+        weight: 1
+      - path: Witch_hat
+        weight: 1
+      - path: WitchArmature
+        weight: 1
+      - path: WitchArmature/Character_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Pelvis
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_Back_1/Robe_Back_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Robe_front_1/Robe_front_2
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_L_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Eye_R_0
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Neck/Hat_bone
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Stomach/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_L/LowerLeg_L
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R
+        weight: 1
+      - path: WitchArmature/Character_controller/Base_controller/Tigh_R/LowerLeg_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_L/Foot_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Foot_R/Foot_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_L/Hand_L
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R
+        weight: 1
+      - path: WitchArmature/Character_controller/IK_Hand_R/Hand_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
