@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: de44039aefcde5542aa37d2d2fe02a32
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gui_Play
+    21300002: Gui_CharacterSelect
+    21300004: Gui_HighScore
+    21300006: Gui_Options
+    21300008: Gui_Atlas_4
+    21300010: Gui_NoAds
+    21300012: Gui_Circle
+    21300014: Gui_Atlas_7
+    21300016: Gui_Sound
+    21300018: Gui_Nope
+    21300020: Gui_Music
+    21300022: Gui_Back
+    21300024: Gui_Cherry2
+    21300026: Gui_Cherry1
+    21300028: Gui_Cherry3
+    21300030: Gui_Mute
+    21300032: Gui_YellowMan
+    21300034: Gui_TreMan
+    21300036: Gui_Cyclops
+    21300038: Gui_YellowManColor
+    21300040: Gui_TreManColor
+    21300042: Gui_CyclopsColor
+    21300044: Gui_Yellow
+    21300046: Gui_FlowerMan
+    21300048: Gui_Yellow_C
+    21300050: Gui_TreMan_C
+    21300052: Gui_FlowerMan_C
+    21300054: Gui_Cyclop_C
+    21300056: Gui_King
+    21300058: Gui_Play
+    21300060: Gui_Circle
+    21300062: Gui_LeaderBoard
+    21300064: Gui_Button
+    21300066: Gui_Restart
+    21300068: Gui_HairyColor
+    21300070: Gui_HairyWhite
+    21300072: Gui_StickMan
+    21300074: Gui_Witch
+    21300076: Gui_Sqaure
+    21300078: Gui_Arrow
+    21300080: Gui_Outline
+    21300082: Gui_PlanetRun
+    21300084: Gui_SwipeDown
+    21300086: Gui_SwipeUp
+    21300088: Gui_Home
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Gui_Play
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 877
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_CharacterSelect
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 707
+        width: 101
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_HighScore
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 424
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Options
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 567
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 513
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_NoAds
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 276
+        width: 152
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Circle
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 880
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 412
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Sound
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 173
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Nope
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 169
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Music
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 74
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Back
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 888
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Cherry2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 727
+        width: 132
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Cherry1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 589
+        width: 138
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Cherry3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 468
+        width: 139
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Mute
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 75
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Yellow
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 842
+        width: 95
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Yellow_C
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 638
+        width: 95
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_TreMan_C
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 630
+        width: 75
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_FlowerMan_C
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 634
+        width: 95
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Cyclop_C
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 635
+        width: 94
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_King
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 828
+        width: 137
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Play
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 550
+        width: 214
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Circle
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 259
+        width: 196
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_LeaderBoard
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 168
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Button
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 180
+        width: 164
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 15, y: 15, z: 12, w: 12}
+    - name: Gui_Restart
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 484
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_HairyColor
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 629
+        width: 107
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_StickMan
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 444
+        width: 69
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Witch
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 441
+        width: 72
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Sqaure
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 272
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 3, y: 3, z: 3, w: 3}
+    - name: Gui_Arrow
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 172
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Outline
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 272
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 3, y: 3, z: 3, w: 3}
+    - name: Gui_PlanetRun
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 625
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_SwipeDown
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 382
+        width: 105
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_SwipeUp
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 224
+        width: 105
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gui_Home
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 843
+        width: 190
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

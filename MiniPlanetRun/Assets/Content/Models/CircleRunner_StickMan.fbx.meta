@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 2b2c7919cfca6d84b80afb26b1475227
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: chest
+    100006: //RootNode
+    100008: Elbow_L
+    100010: Elbow_R
+    100012: Foot_L
+    100014: Foot_R
+    100016: Hand_L
+    100018: Hand_R
+    100020: head
+    100022: hip_L
+    100024: hip_R
+    100026: IK_Foot_L
+    100028: IK_Foot_R
+    100030: IK_hand_L
+    100032: IK_hand_R
+    100034: Knee_L
+    100036: Knee_R
+    100038: leg_L
+    100040: leg_R
+    100042: LowerArm_L
+    100044: LowerArm_R
+    100046: neck
+    100048: Pelvis
+    100050: shoulder_L
+    100052: shoulder_R
+    100054: StickMan
+    100056: UpperArm_L
+    100058: UpperArm_R
+    400000: Armature
+    400002: Bone
+    400004: chest
+    400006: //RootNode
+    400008: Elbow_L
+    400010: Elbow_R
+    400012: Foot_L
+    400014: Foot_R
+    400016: Hand_L
+    400018: Hand_R
+    400020: head
+    400022: hip_L
+    400024: hip_R
+    400026: IK_Foot_L
+    400028: IK_Foot_R
+    400030: IK_hand_L
+    400032: IK_hand_R
+    400034: Knee_L
+    400036: Knee_R
+    400038: leg_L
+    400040: leg_R
+    400042: LowerArm_L
+    400044: LowerArm_R
+    400046: neck
+    400048: Pelvis
+    400050: shoulder_L
+    400052: shoulder_R
+    400054: StickMan
+    400056: UpperArm_L
+    400058: UpperArm_R
+    4300000: StickMan
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: StickMan
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .300000012
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
