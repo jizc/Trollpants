@@ -1,0 +1,3 @@
+$ cat .gitattributes
+**/Assets/PlayServicesResolver/* linguist-vendored
+**/Assets/Plugins/* linguist-vendored
