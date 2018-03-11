@@ -4,7 +4,7 @@
 Witch Wing is a mobile game in the endless flyer genre. It was created in [Unity](http://unity3d.com/) by Trollpants Game Studio in 2014.
 
 ## Open Source Release
-I have rewritten nearly all of the source code for this release. This was to both clean it up and to get rid of some dependencies. Ads and IAPs have also been removed, which necessitated some minor redesign of menus and game balance.
+Nearly all of the source code was rewritten for this release. This was to both clean it up and to get rid of some dependencies. Ads and IAPs have also been removed, which necessitated some minor redesign of menus and game balance.
 
 As a bonus, it's now possible to downgrade the player skills. This was a long requested feature, as many players had trouble getting used to the controls when the tilt sensitivity was upgraded a lot.
 
