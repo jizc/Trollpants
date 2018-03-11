@@ -1,7 +1,7 @@
 ![feature](FeatureGraphic.png)
 
 # Interstellar Drift
-Interstellar Drift is a mobile game created in [Unity](http://unity3d.com/) by Trollpants Game Studio in 2015.
+Interstellar Drift is a mobile game created in [Unity](http://unity3d.com/) by [Trollpants Game Studio](https://github.com/jizc/Trollpants) in 2015.
 
 ## Release History
 Interstellar Drift was released on Google Play, Apple App Store and Amazon Appstore on July 14th, 2015.
