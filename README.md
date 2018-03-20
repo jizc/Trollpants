@@ -1,9 +1,13 @@
 ![logo](TrollpantsLogo.png)
 
 # Trollpants Game Studio
+## Summary
+Here are all 5 mobile games previously released by, the now defunct company, Trollpants Game Studio. The [license is MIT](./LICENSE), which means you can do nearly anything you want with this content, including commercial use.
+
+## History
 Trollpants was an independent mobile games studio founded in Oslo, Norway on June 30th, 2014. There was 9 founding members that had all just graduated from university with various video games related bachelor's degrees. During the first year of operations, five mobile games and one Unity plugin was released. Due to financial struggles the team decided to break up in the summer of 2015. The studio continued to exist for a little over a year after that, as the Unity plugin CloudOnce was still making some money on the Unity Asset Store. The studio was fully shut down on October 19th, 2016.
 
-To preserve the games, they have all been made open source and updated to run in Unity 2017.3. They are all available in this repository. Hopefully this can also help other indie developers who are just getting started.
+To preserve the games, they have all been made open source and updated to run in Unity 2017.3. Hopefully this can also help other indie developers who are just getting started.
 
 The source has been cleaned up and premium third party dependencies have been removed. All IAP and ads have also been removed.
 
